@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         val number2 = inputText2.text.toString().toIntOrNull()
 
         val outputText = findViewById<TextView>(R.id.outputText)
-
+        
         if (number1 != null && number2!= null ){
             outputText.text = (number1+number2).toString()
         }
