@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercício 1.1</string>
+    <string name="result">Resultado</string>
+    <string name="see_result">Ver resultado</string>
+    <string name="number_1_place">Digite um número</string>
+    <string name="number_2_place">Digite outro número</string>
+</resources>
