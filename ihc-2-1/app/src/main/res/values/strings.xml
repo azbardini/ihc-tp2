@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercício 2.1</string>
+    <string name="waiting_for_message">Esperando mensagem</string>
+    <string name="see_result">Enviar</string>
+    <string name="Z_place">Z</string>
+    <string name="Y_place">Y</string>
+    <string name="X_place">X</string>
+    <string name="L_place">Luz</string>
+</resources>
