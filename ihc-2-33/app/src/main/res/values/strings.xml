@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercício 2.3</string>
+    <string name="waiting_for_message">Esperando mensagem</string>
+    <string name="see_result">Enviar</string>
+    <string name="Z_place">Acel Z</string>
+    <string name="Y_place">Acel Y</string>
+    <string name="X_place">Acel X</string>
+    <string name="L_place">Luz</string>
+    <string name="MX_place">Mag X</string>
+    <string name="MY_place">Mag Y</string>
+    <string name="MZ_place">Mag Z</string>
+</resources>
